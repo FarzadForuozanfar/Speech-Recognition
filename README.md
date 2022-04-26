@@ -19,7 +19,7 @@ In general, DTW is a method that calculates an optimal match between two given s
 ####
 ![1_xC66E1ENK6HO2Z_FRFv25A](https://user-images.githubusercontent.com/91725214/165158949-45813901-40c8-4139-a080-ff29ca93a3f1.png)
 ####
-<br>
+
 ## My voice signals using the `matplotlib.pyplot` chart drawing function:
 ![download](https://user-images.githubusercontent.com/91725214/165159557-a40b9724-f9e5-41e1-a668-c988a512eb9a.png)
 ## Another person voice signals using the `matplotlib.pyplot` chart drawing function:
