@@ -26,4 +26,9 @@ In general, DTW is a method that calculates an optimal match between two given s
 ![download (1)](https://user-images.githubusercontent.com/91725214/165159773-b6b5c240-21e5-4b1a-9953-66194afe06c0.png)
 ## Compare two(me & another person) audio signals using dtw.plot():
 ![download (2)](https://user-images.githubusercontent.com/91725214/165162671-291e6924-8712-456f-ab3f-b8b619fdaf67.png)
+## Calculate distance between my voices to each other with dtw.distance() :
+![table-chart](https://user-images.githubusercontent.com/91725214/165356940-9be67e0b-97e6-40c4-8186-58cae883e4d5.png)
+## Calculate distance between my voices and another person voice to each other with dtw.distance() :
+![table-chart (1)](https://user-images.githubusercontent.com/91725214/165357031-540430c9-2a83-4494-aeda-e694847d14c8.png)
+
 
